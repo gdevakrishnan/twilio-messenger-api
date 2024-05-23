@@ -17,7 +17,7 @@ To get started, follow these steps:
 1. Clone the repository or download the source code.
 
     ```sh
-    git clone https://github.com/yourusername/twilio-messenger-api.git
+    git clone https://github.com/gdevakrishnan/twilio-messenger-api.git
     cd twilio-messenger-api
     ```
 
